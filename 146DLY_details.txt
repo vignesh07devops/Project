@@ -25,7 +25,7 @@ log path: /scratch/workarea/FCIS146DLY/debug
 
 Winscp machine: ofss-mum-1409.snbomprshared1.gbucdsint02bom.oraclevcn.com
 Username/Password : fcisadmin/fcisadmin
-Username/Password : fcisadmin/fcisadmin123
+
 
 
 
