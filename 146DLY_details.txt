@@ -1,0 +1,30 @@
+FCIS146DLY =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(HOST = ofss-mum-2183.snbomprshared1.gbucdsint02bom.oraclevcn.com)(PORT = 1522))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = FCIS146DLY)
+    )
+  )
+
+LOB Schema:	ISINAMCB145@FCIS146DLY
+LOB Schema:	ISINAMCE145@FCIS146DLY
+LOB Schema:	ISINDISINTE145@FCIS146DLY
+LOB Schema:	ISINDISINTB145@FCIS146DLY
+LOB Schema:	ISINGENAMC145@FCIS146DLY
+PENSION Schema:	ISINPAMDIST145@FCIS146DLY
+SMS Schema:	ISINSMS145@FCIS146DLY
+SP Schema:	ISINSP145@FCIS146DLY
+REPORTS Schema:	ISINREP145@FCIS146DLY
+Read Only Schema::	FCISREAD/FCISREAD@FCIS146DLY
+
+Password: Password146DLY same for all schemas
+
+App url: https://100.76.148.244:9004/FCIS146DLY/welcome.jsp
+log path: /scratch/workarea/FCIS146DLY/debug
+
+Winscp machine: ofss-mum-1409.snbomprshared1.gbucdsint02bom.oraclevcn.com
+Username/Password : fcisadmin/fcisadmin
+
+
+
